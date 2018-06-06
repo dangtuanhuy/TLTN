@@ -1,0 +1,15 @@
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\bin\Debug\DTH.Service.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\bin\Debug\DTH.Service.pdb
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\bin\Debug\DTH.Common.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\bin\Debug\DTH.Data.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\bin\Debug\DTH.Model.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\bin\Debug\DTH.Common.pdb
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\bin\Debug\DTH.Data.pdb
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\bin\Debug\DTH.Data.dll.config
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\bin\Debug\DTH.Model.pdb
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\bin\Debug\DTH.Model.dll.config
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\obj\Debug\DTH.Service.csprojAssemblyReference.cache
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\obj\Debug\DTH.Service.csproj.CoreCompileInputs.cache
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\obj\Debug\DTH.Service.csproj.CopyComplete
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\obj\Debug\DTH.Service.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Service\obj\Debug\DTH.Service.pdb

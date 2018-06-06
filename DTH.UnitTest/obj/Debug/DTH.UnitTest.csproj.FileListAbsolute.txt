@@ -1,0 +1,14 @@
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\bin\Debug\DTH.UnitTest.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\bin\Debug\DTH.UnitTest.pdb
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\obj\Debug\DTH.UnitTest.csprojAssemblyReference.cache
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\obj\Debug\DTH.UnitTest.csproj.CoreCompileInputs.cache
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\obj\Debug\DTH.UnitTest.csproj.CopyComplete
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\obj\Debug\DTH.UnitTest.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.UnitTest\obj\Debug\DTH.UnitTest.pdb

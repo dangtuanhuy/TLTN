@@ -1,0 +1,14 @@
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\bin\Debug\DTH.Model.dll.config
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\bin\Debug\DTH.Model.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\bin\Debug\DTH.Model.pdb
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\bin\Debug\DTH.Common.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\bin\Debug\EntityFramework.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\bin\Debug\DTH.Common.pdb
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\bin\Debug\EntityFramework.xml
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\obj\Debug\DTH.Model.csprojAssemblyReference.cache
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\obj\Debug\DTH.Model.csproj.CoreCompileInputs.cache
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\obj\Debug\DTH.Model.csproj.CopyComplete
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\obj\Debug\DTH.Model.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Model\obj\Debug\DTH.Model.pdb

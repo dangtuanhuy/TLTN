@@ -1,0 +1,6 @@
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Common\bin\Debug\DTH.Common.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Common\bin\Debug\DTH.Common.pdb
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Common\obj\Debug\DTH.Common.csprojAssemblyReference.cache
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Common\obj\Debug\DTH.Common.csproj.CoreCompileInputs.cache
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Common\obj\Debug\DTH.Common.dll
+D:\HKI 2018-2019 Final\TieuLuanTotNghiep\DTHShop\DTH.Common\obj\Debug\DTH.Common.pdb
